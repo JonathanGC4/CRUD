@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "64210c70dcd88812b9611def"
+  },
+  "titulo": "Orgullo y Prejuicio",
+  "fecha_publicacion": "1813-01-28",
+  "autor": {
+    "nombre": "Jane Austen",
+    "nacionalidad": "Británica"
+  },
+  "categoria": "Novela romántica"
+},{
+  "_id": {
+    "$oid": "64210c8fdcd88812b9611df0"
+  },
+  "titulo": "La Metamorfosis",
+  "fecha_publicacion": "1915-10-15",
+  "autor": {
+    "nombre": "Franz Kafka",
+    "nacionalidad": "Checa"
+  },
+  "categoria": "Ficción absurda"
+},{
+  "_id": {
+    "$oid": "64210c9ddcd88812b9611df1"
+  },
+  "titulo": "El Señor de los Anillos",
+  "fecha_publicacion": "1954-1955",
+  "autor": {
+    "nombre": "J.R.R. Tolkien",
+    "nacionalidad": "Británica"
+  },
+  "categoria": "Fantasía"
+},{
+  "_id": {
+    "$oid": "64210cafdcd88812b9611df2"
+  },
+  "titulo": "La Divina Comedia",
+  "fecha_publicacion": "1320",
+  "autor": {
+    "nombre": "Dante Alighieri",
+    "nacionalidad": "Italiana"
+  },
+  "categoria": "Poema épico"
+},{
+  "_id": {
+    "$oid": "64210cc1dcd88812b9611df3"
+  },
+  "titulo": "El retrato de Dorian Gray",
+  "fecha_publicacion": "1890-07-20",
+  "autor": {
+    "nombre": "Oscar Wilde",
+    "nacionalidad": "Irlandesa"
+  },
+  "categoria": "Novela gótica"
+},{
+  "_id": {
+    "$oid": "64210ccfdcd88812b9611df4"
+  },
+  "titulo": "Hamlet",
+  "fecha_publicacion": "1603-1604",
+  "autor": {
+    "nombre": "William Shakespeare",
+    "nacionalidad": "Inglesa"
+  },
+  "categoria": "Tragedia"
+},{
+  "_id": {
+    "$oid": "64210ce0dcd88812b9611df5"
+  },
+  "titulo": "El Principito",
+  "fecha_publicacion": "1943-04-06",
+  "autor": {
+    "nombre": "Antoine de Saint-Exupéry",
+    "nacionalidad": "Francesa"
+  },
+  "categoria": "Literatura infantil"
+},{
+  "_id": {
+    "$oid": "64210cf0dcd88812b9611df6"
+  },
+  "titulo": "La Odisea",
+  "fecha_publicacion": "Siglo VIII a.C.",
+  "autor": {
+    "nombre": "Homero",
+    "nacionalidad": "Griega"
+  },
+  "categoria": "Epopeya"
+},{
+  "_id": {
+    "$oid": "64210d02dcd88812b9611df7"
+  },
+  "titulo": "Don Quijote de la Mancha",
+  "fecha_publicacion": "1605-01-16",
+  "autor": {
+    "nombre": "Miguel de Cervantes",
+    "nacionalidad": "Española"
+  },
+  "categoria": "Novela picaresca"
+},{
+  "_id": {
+    "$oid": "64210d13dcd88812b9611df8"
+  },
+  "titulo": "1984",
+  "fecha_publicacion": "1949-06-08",
+  "autor": {
+    "nombre": "George Orwell",
+    "nacionalidad": "Británica"
+  },
+  "categoria": "Distopía"
+},{
+  "_id": {
+    "$oid": "64210d22dcd88812b9611df9"
+  },
+  "titulo": "Cien años de soledad",
+  "fecha_publicacion": "1967-05-30",
+  "autor": {
+    "nombre": "Gabriel García Márquez",
+    "nacionalidad": "Colombiana"
+  },
+  "categoria": "Realismo mágico"
+},{
+  "_id": {
+    "$oid": "642115749be30a65e6fc8a5f"
+  },
+  "titulo": "La vida despues de la muerte",
+  "fecha_publicacion": "2005-12-06",
+  "nombre": "Aika",
+  "nacionalidad": "Coreano",
+  "categoria": "Fantasia"
+},{
+  "_id": {
+    "$oid": "64211986c86dccbb43af3354"
+  },
+  "titulo": "Tirania",
+  "fecha_publicacion": "1996-03-05",
+  "autor": "Autor: ",
+  "nombre": "Mike ross",
+  "nacionalidad": "Britanico",
+  "categoria": "Historia"
+}]
